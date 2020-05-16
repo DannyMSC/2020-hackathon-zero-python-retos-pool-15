@@ -1,7 +1,11 @@
 import pygame, sys, time, random
 from pygame.locals import *
 
-#pygame.init()
+
+screen_width = 500
+screen_height = 500
+
+pygame.init()
 #play_surface = pygame.display.set_mode((500, 500))
 #fps = pygame.time.Clock()
 
